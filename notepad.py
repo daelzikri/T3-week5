@@ -1,3 +1,7 @@
+# Nama : Pudael Zikri
+# NIM  : F1D02310088
+# Kelas: C
+
 import sys
 import os
 from PySide6.QtWidgets import (
